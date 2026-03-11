@@ -1,0 +1,17 @@
+# Jupyter Notebook cache and checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS junk files (if you use a Mac)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows image cache (if you use Windows)
+Thumbs.db
+ehthumbs.db
